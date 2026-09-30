@@ -1,0 +1,18 @@
+1. Start with the purpose
+
+You can say:
+
+"The purpose of this Power BI dashboard is to provide HR management with a centralized view of employee-related metrics such as work-life balance, employee ratings, satisfaction, training cost, and training outcomes. The dashboard helps HR identify trends and areas that may require attention, and supports data-driven workforce and training decisions."
+
+2. Explain the business use case
+
+For example:
+
+"The main use case is HR workforce analytics. HR teams can use this report to understand employee performance and satisfaction, analyze training investments, and evaluate whether training programs are producing the desired outcomes."
+
+Your dashboard appears to cover three major areas:
+
+Area	                                     What your dashboard shows	                                        Business use
+Employee experience	              Work-Life Balance Score, Satisfaction Score	         Identify departments/employees that may need attention
+Employee performance	              Current Employee Rating	                                 Understand employee performance distribution
+Learning & Development	              Training Cost, Training Duration, Training Outcome	 Analyze training investment and outcomes
